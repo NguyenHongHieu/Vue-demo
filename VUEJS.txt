@@ -1,0 +1,12 @@
+Review and practices
+---------------------
+1.Vue Instance (basic) done
+2.Data & method( example) done
+link:https://www.youtube.com/watch?v=6mlnBNKYpfI&list=PLv6GftO355AtDjStqeyXvhA1oRLuhvJWf&index=5
+-------------------------
+3. v-bind done
+4.Template Syntax(basic)done
+https://www.youtube.com/watch?v=AHPkqa5ZaN0&list=PLv6GftO355AtDjStqeyXvhA1oRLuhvJWf&index=6
+A Hoàn bổ sung:
+computed
+Link:https://www.youtube.com/watch?v=6l3Dv1KEuVs&list=PLv6GftO355AtDjStqeyXvhA1oRLuhvJWf&index=9

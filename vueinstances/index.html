@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vuejs</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+  </head>
+  <body>
+    <header>Welcome to my demo Vuejs</header>
+    <div id="app">
+        <h1>Some kind of pets!</h1>
+        <a v-bind:href="url" :target="target">information</a>
+      <li>mouse</li>
+      <li>squirrell</li>
+      <li>dog</li>
+      {{checkOk}}
+      
+      <!-- {{ok ? 'YES' : 'NO'}} -->
+    </div>
+    <footer>Say bye!!!</footer>
+    <script src="main.js"></script>
+  </body>
+</html>

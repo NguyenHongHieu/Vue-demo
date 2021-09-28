@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>demo</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+  </head>
+  <body>
+    <div id="app">
+    <h1> Pet= {{namePet}}</h1>
+    <input v-on:keyup.enter type="text" placeholder="Enter your name pet of here!!!">
+
+    <!-- built files will be auto injected -->
+  </div>
+  </body>
+  <script>
+    var app=new Vue({
+      el:'#app',
+      data: {
+        namePet:''
+      },
+      method:{
+        handle(e){
+            
+        }
+          
+      }
+    })
+  </script>
+</html>
